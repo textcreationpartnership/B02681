@@ -1,0 +1,293 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A dialogue between two Church of England-men concerning maters [sic] of religion, as set forth in the pulpit.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02681</idno>
+            <idno type="STC">Wing D1339A</idno>
+            <idno type="STC">ESTC R174556</idno>
+            <idno type="EEBO-CITATION">52614612</idno>
+            <idno type="OCLC">ocm 52614612</idno>
+            <idno type="VID">175834</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02681)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175834)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2752:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A dialogue between two Church of England-men concerning maters [sic] of religion, as set forth in the pulpit.</title>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1687?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Trinty College (Dublin, Ireland) Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Controversial literature --  Early works to 1800.</term>
+               <term>Catholics --  Apologetic works --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="dialogue">
+            <pb n="1" facs="tcp:175834:1"/>
+            <!-- PDF PAGE 108 -->
+            <head>A DIALOGUE Between two <hi>Church of England-Men</hi> Concerning Maters of RELIGION, As ſet forth in the PULPIT.</head>
+            <sp>
+               <speaker>Francis.</speaker>
+               <p>
+                  <hi>HOw now, Neighbour</hi> Wil<g ref="char:EOLhyphen"/>liam, <hi>you have put on a very Solemn Face this Morning; pray, what makes you ſo Sober?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>William.</speaker>
+               <p>Oh! I have had my Head full all this Night of nothing but <hi>Fire</hi> and <hi>Faggots;</hi> and when I awak'd this Morning, I could not perſwade my ſelf to open my Eyes, or ſtir Hand or Foot, thinking I had been faſtn'd to a <hi>Stake</hi> in <hi>Smithfield.</hi> And the cold Sweat is not off me yet.</p>
+            </sp>
+            <pb n="2" facs="tcp:175834:2"/>
+            <!-- PDF PAGE 109 -->
+            <sp>
+               <speaker>Fran.</speaker>
+               <p>
+                  <hi>This was a very <g ref="char:V">Ʋ</g>nſeaſonable Dream, conſidering the Peace we now enjoy. But what ſhould raiſe theſe Fancies in your Head at this time of the day?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>I can't tell, unleſs it was the Re<g ref="char:EOLhyphen"/>licks of a <hi>Sermon</hi> I heard the laſt <hi>Sunday,</hi> in which were made ſeveral ſevere Re<g ref="char:EOLhyphen"/>flections upon the <hi>Papiſts;</hi> they were not nam'd, yet every Body knew the mean<g ref="char:EOLhyphen"/>ing. And I believe this has rais'd all the Frightful Notions, and horrid Ideas I had in the time of the <hi>Popiſh Plot.</hi> And to tell you the Truth, theſe thoughts have been the ſubject of my Meditation for theſe Two Hours, and I cannot tell how to get them out of my Head.</p>
+            </sp>
+            <sp>
+               <speaker>Fran.</speaker>
+               <p>
+                  <hi>Fy, fy. All this in a</hi> Dream <hi>was pardonable; but</hi> Awake <hi>and</hi> Serious, <hi>and still to go on with theſe Phantoms, reflects upon your Judgment. Can you fear a Thunder-bolt, when there's never a Cloud to be ſeen in the Sky?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Ay, but the <hi>Goſpel</hi> muſt be ful<g ref="char:EOLhyphen"/>fill'd. Don't you conſider, that our <hi>Mi<g ref="char:EOLhyphen"/>niſters</hi> preach to us the <hi>Goſpel?</hi> And have not they, theſe many years, been ſhew<g ref="char:EOLhyphen"/>ing unto us, with the <hi>Bible</hi> in their Hands, the <hi>Cruelty</hi> and <hi>Bloodineſs</hi> of the <hi>Papiſts,</hi> their <hi>Secret Conſpiracies,</hi> and <hi>Open Vio<g ref="char:EOLhyphen"/>lence,</hi> their <hi>Treacheries</hi> and <hi>Falſhood,</hi> their
+<pb n="3" facs="tcp:175834:2"/>
+                  <!-- PDF PAGE 109 -->
+                  <hi>Murthers</hi> and <hi>Aſſaſſinations.</hi> And when I reflect, that at this day, we have ſo ma<g ref="char:EOLhyphen"/>ny <hi>Papiſts</hi> on every ſide of us, <hi>Papiſts</hi> in Power, <hi>Papiſts</hi> Counſellours, <hi>Papiſts</hi> Com<g ref="char:EOLhyphen"/>manders, <hi>Papiſts</hi> Juſtices, ſo many <hi>Pa<g ref="char:EOLhyphen"/>piſts</hi> Souldiers, every one a Sword by his ſide; and what is worſt of all, ſuch a Number of <hi>Plotting Jeſuits</hi> walking the Streets, all in <hi>Diſguiſe,</hi> that no Body can tell how or when to get out of their way: how can I think of this without trem<g ref="char:EOLhyphen"/>bling? Well, I ſhall certainly never dare to go to bed again without a double Guard at my Door: And whenſoever I lie down, I muſt expect to riſe with my Throat cut.</p>
+            </sp>
+            <sp>
+               <speaker>Fran.</speaker>
+               <p>
+                  <hi>You begin to raiſe the vapors in my Brain: And now you have put into my head, what the</hi> Papiſts <hi>are even according to</hi> our Goſpel, <hi>I cann't tell how to think my ſelf ſafe amongſt them. If any one ſhould have told us Seven Years ago, that within ſo ſhort a time we ſhould have come to be under their Government, could we poſſibly have ſurviv'd the</hi> News? <hi>Would not this voice of Terror and Death have left us without Spirit or Life? We were then, I remember, affraid of the very</hi> Name <hi>and</hi> Shadow <hi>of a</hi> Papiſt; <hi>and could we imagine it poſſible for us at any time to live in Peace and Safety, with their</hi>
+                  <pb n="4" facs="tcp:175834:3"/>
+                  <!-- PDF PAGE 110 -->Hand, <hi>and</hi> Sword <hi>over our Heads?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>No certainly, if there was any Truth in <hi>our Goſpel,</hi> this could not be poſſible.</p>
+            </sp>
+            <sp>
+               <speaker>Fran.</speaker>
+               <p>
+                  <hi>Ay; but now I think on't; there's no</hi> Goſpel <hi>to be believ'd contrary to our Sen<g ref="char:EOLhyphen"/>ſes. And therefore ſince we</hi> See <hi>and</hi> Feel <hi>our ſelves in</hi> Peace <hi>and</hi> Safety <hi>amidſt ſo many</hi> Papiſts; <hi>we muſt not take thoſe</hi> Ser<g ref="char:EOLhyphen"/>mons <hi>in a</hi> Literal Senſe, <hi>which told us ſo much of the</hi> Bloodineſs <hi>of the</hi> Papiſts, <hi>and that there could be no Peace expected for</hi> Proteſtants <hi>under ſuch a Government.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>This would be ſome Relief to an afflicted Soul, were this Doctrine a <hi>Church of England</hi> Doctrine. But I fear you have a mind to flatter me into a little Comfort, by ſome vain imagination of your own.</p>
+            </sp>
+            <sp>
+               <speaker>Fran.</speaker>
+               <p>
+                  <hi>No, you may rely upon what I tell you; I have heard it from Dr.</hi> Stilling fleet, Tillotſon, Tenniſon, Sherloc, Pellin, <hi>and the reſt of our Miniſtry, that when any thing in the</hi> Goſpel <hi>contradicts our</hi> Senſes <hi>and</hi> Reaſon, <hi>it is not to be taken in a</hi> Lite<g ref="char:EOLhyphen"/>ral Senſe. <hi>And do you now apply this Prin<g ref="char:EOLhyphen"/>ciple to our preſent Circumſtances, and ſee how far it may work upon you. Have not we been under a Prince of that Perſwaſion for above Two Years? We have had ſo ma<g ref="char:EOLhyphen"/>ny</hi> Papiſts <hi>in Office, as you contemplate; ſo many</hi> Papiſts Souldiers, <hi>and ſuch a num<g ref="char:EOLhyphen"/>ber
+<pb n="5" facs="tcp:175834:3"/>
+                     <!-- PDF PAGE 110 -->of</hi> Prieſts <hi>and</hi> Jeſuits <hi>on every ſide of us; and yet have we not all this while enjoy<g ref="char:EOLhyphen"/>ed our</hi> Liberty? <hi>Have we not poſſeſs'd our Eſtates in quiet? Has any force been us'd upon our Perſons? Has any ones Property been invaded? Have our Throats been in dan<g ref="char:EOLhyphen"/>ger from their Swords; or our Houſes from Fire-balls? Have we been oppreſs'd with Taxes, or waſted in Wars? Call in your</hi> Eyes <hi>and</hi> Ears, <hi>your</hi> Hands, <hi>all your</hi> Senſes <hi>and</hi> Reaſon <hi>to witneſs, and if theſe declare to you the Truth of what I tell you; what di<g ref="char:EOLhyphen"/>ſturbance can all the</hi> Sermons <hi>you have for<g ref="char:EOLhyphen"/>merly heard, and now hear, cauſe in you; ſince from the Information of your</hi> Senſes, <hi>you are aſſur'd, that thoſe</hi> Terrors <hi>and Pro<g ref="char:EOLhyphen"/>phetic</hi> Threats <hi>of</hi> Miſery <hi>and</hi> Slavery, <hi>contain'd in them, are not to be underſtood</hi> Literally; <hi>but in ſome</hi> other Senſe, <hi>which I believe Scholars and</hi> Politicians <hi>can give a better account of than I?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Will</speaker>
+               <p>You give me ſome eaſe: Death withdraws it ſelf from before my Eyes; my Heart begins to dilate it ſelf, and my Blood returns into its Veſſels. But pray Neighbour, now you put it into my Head, what ſhould be the meaning then of all thoſe <hi>Sermons</hi> we have heard from our <hi>Pulpits,</hi> concerning the <hi>Papiſts?</hi> When I come out of Church, I cannot imagine
+<pb n="6" facs="tcp:175834:4"/>
+                  <!-- PDF PAGE 111 -->the <hi>Papiſts</hi> to be any thing but <hi>Fools</hi> and <hi>Ideots, Monſters</hi> of <hi>Impiety</hi> and <hi>Barbarity.</hi> And yet in my Converſation and Con<g ref="char:EOLhyphen"/>tracts with them, I find them to be like other Men: And now, as you ſay, we have more fully experienc'd, in the Reign of our preſent Sovereign, that in the enjoyment of our Liberty, the Peace and Welfare of the Nation, we have as great Bleſſings to expect from a <hi>Papiſt,</hi> as from any <hi>Proteſtant</hi> Prince whatſo<g ref="char:EOLhyphen"/>ever. How are theſe things to be recon<g ref="char:EOLhyphen"/>cil'd?</p>
+            </sp>
+            <sp>
+               <speaker>Fran.</speaker>
+               <p>
+                  <hi>You put me upon a very <g ref="char:V">Ʋ</g>ngrateful Subject. But for the relief of your troubles and mine own, I'll lay before you ſome Ob<g ref="char:EOLhyphen"/>ſervations I have made upon the</hi> Pulpit, <hi>I hope no body ever-hears us.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>No, no danger. Pray go on, and by a charitable Diſcourſe perfect your Cure; for if you leave me as I am, I fear on the next <hi>Sunday</hi> the Noiſe of <hi>Po<g ref="char:EOLhyphen"/>pery</hi> will make me Relapſe.</p>
+            </sp>
+            <sp>
+               <speaker>Fran.</speaker>
+               <p>
+                  <hi>I'll tell you then: About Seven Years ago, I took a reſolution of making a Collection of all ſuch</hi> Sermons <hi>as ſhould come out in Print: For thought I, when I have them by me, I ſhall be able to read them at leiſure; I can with more ſeriouſneſs apply my ſelf to that Divine Study, and from their
+<pb n="7" facs="tcp:175834:4"/>
+                     <!-- PDF PAGE 111 -->Information, as from the Goſpel, learn Truth and Falſhood, what to embrace and what to fly. As I had reſolv'd, ſo I did; intending by them to ſteer my Life, my Judg<g ref="char:EOLhyphen"/>ment, and my Converſation. But Four Years were not well over, when I diſcover'd my miſtake, and found that all was not</hi> Go<g ref="char:EOLhyphen"/>ſpel, <hi>which I had taken for</hi> Goſpel.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>
+                  <hi>Let not this be told in Gath, nor mention'd in the ſtreets of Aſcalon.</hi> Pray what do you mean? Is it not the <hi>Goſpel</hi> then, we hear from the <hi>Pulpits?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Fran.</speaker>
+               <p>
+                  <hi>The</hi> Text <hi>is out of the</hi> Goſpel; <hi>but for what follows, it depends upon the</hi> Preacher; <hi>and requires the Conſideration of the Auditory before it be truſted. You know we are often advis'd from the</hi> Chair, <hi>Not to go</hi> Blindfold, <hi>nor take things upon</hi> Truſt; <hi>and this (as I find) they intend ſhould be underſtood of their</hi> Sermons, <hi>as well as of other things, that are propos'd to us. How<g ref="char:EOLhyphen"/>ever, one thing I have obſerv'd in the peruſal of my</hi> Collection; <hi>that when</hi> Preachers <hi>in their</hi> Sermons <hi>treat of</hi> Morality, <hi>dire<g ref="char:EOLhyphen"/>cting their Flock to the Obſervance of a Good Life, teaching them</hi> to love their Neigh<g ref="char:EOLhyphen"/>bour, to be at Peace with all men, to Forgive Injuries, to be Merciful, Pati<g ref="char:EOLhyphen"/>ent, Humble, and Sincere, to do no wrong, <hi>&amp;c. In this caſe, beſides their</hi> Text
+<pb n="8" facs="tcp:175834:5"/>
+                  <!-- PDF PAGE 112 -->
+                  <hi>being</hi> Goſpel, <hi>the</hi> Word <hi>of God generally ſpreads it ſelf throughout their whole</hi> Ser<g ref="char:EOLhyphen"/>mon, <hi>and they are to be heark'ned to like to an Angel of God. But when you hear them begin to talk aloud of</hi> Parties <hi>and</hi> People, <hi>of</hi> Pa<g ref="char:EOLhyphen"/>piſts, Jeſuits, Diſſenters, Plots <hi>and</hi> De<g ref="char:EOLhyphen"/>ſigns, <hi>when you hear them uſher in a Diſ<g ref="char:EOLhyphen"/>courſe with,</hi> There are a ſort of People in the World, <hi>&amp;c. Then ſtand upon your Guard; for at this time they begin generally to leave the</hi> Goſpel; <hi>the Auditory is to con<g ref="char:EOLhyphen"/>ſider and believe them as far as they think fit: but for their</hi> Bibles, <hi>they may put them up in their Pockets; there being nothing of all this to be found there.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>This is a good Obſervation, and I hope will ſecure me againſt all Relapſes. For now when I go to Church, I ſhall know when to believe, and when to ſu<g ref="char:EOLhyphen"/>ſpend all belief; I ſhall be able to diſtin<g ref="char:EOLhyphen"/>guiſh, what is to ſink into the <hi>Heart,</hi> from what is to paſs no farther than the <hi>Ear.</hi> Hitherto I confeſs. I have been ſo Inconſiderate, as to take all for Goſpel, that I heard from the <hi>Pulpit:</hi> and this has been unhappily the occaſion of my Misfortune and Trouble; it has fill'd me with Fears and Jealouſies, and made my Life uneaſie. And indeed I could not well avoid this miſtake, ſeeing that I ſcarce
+<pb n="9" facs="tcp:175834:5"/>
+                  <!-- PDF PAGE 112 -->ever heard any <hi>Parſon,</hi> whether upon a <hi>Moral</hi> Subject, or upon <hi>Plots</hi> and <hi>Jeſuits,</hi> but he ſeem'd to read all alike out of his <hi>Bible.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Fran.</speaker>
+               <p>
+                  <hi>Yes, but you are to conſider the difference between the</hi> Pulpit-Bible, <hi>and the</hi> Pue-Bibles. <hi>Thoſe, which the</hi> People <hi>have in their hands, contain nothing but the</hi> Pure Word of God, <hi>without any</hi> Additi<g ref="char:EOLhyphen"/>on. <hi>But thoſe, which you ſee held forth from the</hi> Pulpits, <hi>have a great deal more in them, than ever was writ by the</hi> Evan<g ref="char:EOLhyphen"/>geliſts, <hi>or others of the Sacred Pen-men. They have Notes in them of every mans own writing. Could you ever imagine that all that you have heard in Sermons of the</hi> Po<g ref="char:EOLhyphen"/>piſh Plot <hi>was writ or known by the</hi> Apoſtles?</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>How could I tell, but They being favour'd with the Spirit of <hi>Prophecy,</hi> might foreſee what was to come in our days: and by ſome hint or <hi>Myſtic</hi> Expreſſions give directions to our <hi>Preachers,</hi> how to behave themſelves, when ſuch things ſhould happen. And, if I am not much miſtaken, I have heard it prov'd in a Sermon, that <hi>Oats</hi> and <hi>Bedloe</hi> were fore<g ref="char:EOLhyphen"/>told by the <hi>Scripture;</hi> and that any one that had but a competent Spirit of <hi>Interpreta<g ref="char:EOLhyphen"/>tion,</hi> might eaſily diſcover, that Theſe were the <hi>Two Witneſſes</hi> mention'd in the <hi>Apocalypſe.</hi>
+               </p>
+            </sp>
+            <pb n="01" facs="tcp:175834:6"/>
+            <!-- PDF PAGE 113 -->
+            <sp>
+               <speaker>Fran.</speaker>
+               <p>
+                  <hi>I can't tell, but it might be in ſome of the</hi> Minſters Bibles <hi>at that time; but I question whether it be there now. For as I told you,</hi> Their Word <hi>of God is not always the</hi> ſame, <hi>it changes and alters according to</hi> Times <hi>and</hi> Seaſons, <hi>eſpecially when the Subject is</hi> Plotting. <hi>But as for the</hi> Peoples Bible, <hi>I dare be bound 'twas never in any of them. Did you ever find it in yours?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>I took always the <hi>Preacher</hi>'s word for it, that 'twas <hi>Authentic Scripture;</hi> but, I confeſs, I could never read it ſo in mine. There might be ſo much diffe<g ref="char:EOLhyphen"/>rence in the <hi>Edition,</hi> as there is in other prophane Books, for all as I know. But indeed, one thing I have all along ob<g ref="char:EOLhyphen"/>ſerv'd, which hits very well with your Remark, that whilſt the <hi>Miniſters</hi> are diſcourſing upon <hi>Morality</hi> and a <hi>Good life,</hi> the People ſit very Serious and De<g ref="char:EOLhyphen"/>mure, but ſomething <hi>Dull,</hi> as if they were hearing a <hi>Repetition</hi> of what they had of<g ref="char:EOLhyphen"/>ten read themſelves, in their own Books; but ſtill with their Bibles in their hands: But when the Miniſters turn from that Subject, and enter upon <hi>Jeſuits,</hi> or <hi>Pha<g ref="char:EOLhyphen"/>natics,</hi> or upon <hi>Plots;</hi> then the People begin to perk up themſelves, to ſtand up Brisk and Attentive, lay aſide their Books; as if what they were then
+<pb n="11" facs="tcp:175834:6"/>
+                  <!-- PDF PAGE 113 -->hearing, were ſomething <hi>New;</hi> ſuch as if they did not make it their own, whilſt 'twas dropping from the <hi>Pulpit,</hi> might be loſt, and could no where be found in their <hi>Bibles</hi> at their return home.</p>
+            </sp>
+            <sp>
+               <speaker>Fran.</speaker>
+               <p>
+                  <hi>You are in the right on't, for there's nothing of all this to be found in the</hi> Bible. <hi>Nay, many times, 'tis ſo far from being the</hi> Word <hi>of God, that it has no relation to it; but is built on no better Foundation, than a</hi> Narrative <hi>of ſome</hi> Knight of the Poſt, a Popular Rumor, <hi>or ſome</hi> Uncertain Hiſtory.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>What! And yet paſs for a <hi>Sermon?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Fran.</speaker>
+               <p>
+                  <hi>For a</hi> Sermon? <hi>I'll warrant you, I can ſhew you hundreds of Sermons, that have been preach'd before the Graveſt Aſſem<g ref="char:EOLhyphen"/>blies in the Nation, and influenc'd them in as good earneſt, as if the</hi> Holy Ghoſt <hi>had been the</hi> Mover; <hi>and yet had no better</hi> Text <hi>to prove what they deliver'd, than the</hi> Word <hi>of</hi> Villanous Man,</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>You confound me quite. What the <hi>Word</hi> of <hi>Men</hi> deliver'd for the <hi>Word</hi> of <hi>God;</hi> and of <hi>Villanous</hi> Men too!</p>
+            </sp>
+            <sp>
+               <speaker>Fran.</speaker>
+               <p>
+                  <hi>Yes, of</hi> Perjur'd Villains, <hi>of</hi> Miſcreants. <hi>So that I can name you ſeve<g ref="char:EOLhyphen"/>ral Eminent Men, after they have taken their</hi> Text, <hi>as they muſt do, out of the</hi> Bible, <hi>fall preſently to their</hi> Dividing, Expounding, Proving, <hi>and</hi> Application, <hi>and in theſe,
+<pb n="12" facs="tcp:175834:7"/>
+                     <!-- PDF PAGE 114 -->follow ſo cloſely</hi> Oats <hi>and</hi> Bedloe, <hi>that a Man would take</hi> Theſe Doctors <hi>for the only</hi> Commentators <hi>upon the</hi> Text. <hi>And I be<g ref="char:EOLhyphen"/>lieve it muſt be Theſe Sermons, that have fill'd your Head thus with</hi> Stakes <hi>and</hi> Faggots.</p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>I doubt not, but theſe have been greatly the Occaſion of my Diſtemper. But You are my Phyſician, and I hope you have pretty well cur'd me. However, I think I had beſt ſtay from Church Three or Four <hi>Sundays,</hi> for fear if I ſhould go there and hear again a Noiſe of <hi>Popery,</hi> I might be ſurpris'd, and take all for Scri<g ref="char:EOLhyphen"/>pture, that's deliver'd with the <hi>Bible in hand,</hi> and ſo my Diſtemper ſhould return upon me. People that are newly reco<g ref="char:EOLhyphen"/>ver'd, ought not to be too ventureſome. What think you?</p>
+            </sp>
+            <sp>
+               <speaker>Fran.</speaker>
+               <p>
+                  <hi>Never fear: Remember, but the Di<g ref="char:EOLhyphen"/>rections I have given you, and go upon my ac<g ref="char:EOLhyphen"/>count. If you are the worſe for't, I'll under<g ref="char:EOLhyphen"/>take to cure you for nothing. I have only ap<g ref="char:EOLhyphen"/>ply'd to you a</hi> General <hi>Remedy as yet, and you are the better for't. But I have other</hi> Particu<g ref="char:EOLhyphen"/>lar Receits <hi>far beyond all you have had hi<g ref="char:EOLhyphen"/>therto.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Will.</speaker>
+               <p>Well, I'll obſerve your Directi<g ref="char:EOLhyphen"/>ons; but if I hear any thing there, and am the worſe for't; you ſhall be ſure to hear of me again.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
